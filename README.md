@@ -8,7 +8,24 @@
 
 ## Desarrollo
 
-- [ ] **TODO**
+- [ ] Documentación y justificación de la solución a desarrollar.
+- [ ] Planteamiento de la simulación y la aplicación a desarrollar
+	- [ ] Evaluación del material disponible.
+ 	- [ ] Implementación del modelo del robot seleccionado.
+  	- [ ] Esquema de paquetes/metapaquete a implementar
+  	- [ ] Diagrama de nodos y tópicos
+  	- [ ] Servicios a implementar
+  	- [ ] Controles a implentales
+  	- [ ] Acciones a implentar
+  	- [ ] Desarrollo de nodos, tópicos, servicios, controles y acciones en Python/C++
+  	- [ ] Desarrollo de la aplicación
+- [ ] Simulación
+	- [ ] Construcción de la simulación en Gazebo, escena y modelos 3D a implemenatr.
+	- [ ] Implemenatción del modelo tridimencional del robot en la simulación
+ 	- [ ] Interación de rutinas y acciones en el entorno simulado
+  	- [ ] Pruebas de la aplicación 
+- [ ] Reporte de resultados finales.
+
 
 ## Equipo
 
